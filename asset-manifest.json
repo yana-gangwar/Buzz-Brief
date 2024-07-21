@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Buzz-Brief/static/css/main.e6c13ad2.css",
+    "main.js": "/Buzz-Brief/static/js/main.6c7457da.js",
+    "static/js/453.b2157c12.chunk.js": "/Buzz-Brief/static/js/453.b2157c12.chunk.js",
+    "static/media/loading.gif": "/Buzz-Brief/static/media/loading.1310a1a408d08d7de62a.gif",
+    "index.html": "/Buzz-Brief/index.html",
+    "main.e6c13ad2.css.map": "/Buzz-Brief/static/css/main.e6c13ad2.css.map",
+    "main.6c7457da.js.map": "/Buzz-Brief/static/js/main.6c7457da.js.map",
+    "453.b2157c12.chunk.js.map": "/Buzz-Brief/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6c7457da.js"
+  ]
+}
